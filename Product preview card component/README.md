@@ -22,12 +22,15 @@ Your users should be able to:
 
 ## Challenges 
 What did I find difficult while building the project?
+
 I couldn't get rid of the small gap between the image and the bottom of the container 
 
 Which areas of my code I am unsure of?
+
 The way I implemented the image swap when switching to mobile devices. Not sure if this is the correct way to do it.
 
 Do I have any questions about best practices?
+
 implementation seems messy.
 
 
