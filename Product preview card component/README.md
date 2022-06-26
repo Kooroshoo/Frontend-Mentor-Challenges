@@ -20,7 +20,7 @@ Your users should be able to:
 ## The Solution 
 [Link To the Demo](https://kooroshoo.github.io/Frontend-Mentor-Challenges/Product%20preview%20card%20component/index.html)
 
-## Challenges 
+## Questions
 **What did I find difficult while building the project?**
 
 I couldn't get rid of the small gap between the image and the bottom of the container 
