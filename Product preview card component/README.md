@@ -23,7 +23,7 @@ Your users should be able to:
 ## Questions
 **What did I find difficult while building the project?**
 
-~~I couldn't get rid of the small gap between the image and the bottom of the container~~. the problem was due to line height in the body
+I couldn't get rid of the small gap between the image and the bottom of the container. The problem was due to line height in the body.
 
 **Which areas of my code I am unsure of?**
 
