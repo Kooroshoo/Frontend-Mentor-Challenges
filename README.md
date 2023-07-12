@@ -1,5 +1,5 @@
 # Frontend-Mentor-Challenges
-Projects completed from the [Frontend Mentor](https://frontendmentor.io) website
+Projects completed from the [Frontend Mentor](https://frontendmentor.io) website. Click on the name of each project below to view the demo.
 
 |Name| Using |
 |---|---|
